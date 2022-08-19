@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:0 tvg-id="PARTIDO 1" group-title="PARTIDOS",PARTIDO 1
-https://ms3.quest123.top:8088/live/fsgft4gfdgh/playlist.m3u8?vidictid=192197808096&id=116655&pk=5eec3ba11343d04b622a7dfa47b07ef73df790b0689ee6e6be32c76942fe5eeea358a8393cb29a56d716ad84547d8a7ab1d26d038bca9774b2dd73cdab0d13ea
+http://185.53.88.179:8080/hls/streama188130/948.ts
+
+#EXTINF:0 tvg-id="PARTIDO 2" group-title="PARTIDOS",PARTIDO 2
+http://185.193.88.48:8080/hls/streama188131/965.ts
+
+#EXTINF:0 tvg-id="PARTIDO 3" group-title="PARTIDOS",PARTIDO 3
+http://185.53.88.145:8080/hls/streama188132/969.ts
