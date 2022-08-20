@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:0 tvg-id="PARTIDO 1" group-title="PARTIDOS",PARTIDO 1
-http://185.53.88.179:8080/hls/streama188130/948.ts
-
-#EXTINF:0 tvg-id="PARTIDO 2" group-title="PARTIDOS",PARTIDO 2
-http://185.193.88.48:8080/hls/streama188131/965.ts
-
-#EXTINF:0 tvg-id="PARTIDO 3" group-title="PARTIDOS",PARTIDO 3
-http://185.53.88.145:8080/hls/streama188132/969.ts
+#EXTINF:0 tvg-id="PARTIDO 1" group-title="PARTIDOS",BETIS
+http://185.53.88.143:8080/hls/streama188130/1566.ts
